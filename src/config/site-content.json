@@ -1,7 +1,7 @@
 {
 	"meta": {
 		"title": "bkys",
-		"description": "Ybkys的个人博客，记录学习笔记、日常生活、有趣分享。"
+		"description": "bkys的个人博客，记录学习笔记、日常生活、有趣分享。"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -29,6 +29,10 @@
 		{
 			"id": "a46372ff45bc5524",
 			"url": "/images/art/a46372ff45bc5524.jpg"
+		},
+		{
+			"id": "6331cf30f246db99",
+			"url": "/images/art/6331cf30f246db99.png"
 		}
 	],
 	"currentArtImageId": "a46372ff45bc5524",
