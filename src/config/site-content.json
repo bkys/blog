@@ -33,9 +33,13 @@
 		{
 			"id": "6331cf30f246db99",
 			"url": "/images/art/6331cf30f246db99.png"
+		},
+		{
+			"id": "21af52f997c85894",
+			"url": "/images/art/21af52f997c85894.png"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "21af52f997c85894",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -57,6 +61,13 @@
 			"value": "366666925@qq.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1765157863118",
+			"type": "link",
+			"value": "http://ibkys.cn/",
+			"label": "ibkys",
+			"order": 3
 		}
 	]
 }
