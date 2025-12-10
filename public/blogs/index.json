@@ -1,5 +1,15 @@
 [
   {
+    "slug": "blogbendi",
+    "title": "2025 Blog 本地服务器部署与Webhook自动更新教程",
+    "tags": [
+      "blog"
+    ],
+    "date": "2025-12-10",
+    "summary": "Blog 本地服务器部署",
+    "cover": "/blogs/blogbendi/94b58fdf1bab43f5.webp"
+  },
+  {
     "slug": "12-09",
     "title": "技术文档模板",
     "tags": [
