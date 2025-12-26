@@ -1,5 +1,15 @@
 [
   {
+    "slug": "12-26",
+    "title": "stm32f103c8t6与stc15C1K08最小系统功耗及设计建议",
+    "tags": [
+      "电子"
+    ],
+    "date": "2025-12-26",
+    "summary": "结合常用的ldo，如1117、6212、6211、6202等ldo芯片的最大输出功率、功耗等参数，计算出stm32f103c8t6与stc15C1K08最小系统功耗，拟采用纽扣电池或锂电池作为电源，给出最小系统配置建议和电池选用建议。",
+    "cover": "/blogs/12-26/c5c615ddccc2db2b.jpg"
+  },
+  {
     "slug": "pve-ddnsgo",
     "title": "pve ddns(阿里云，腾讯等)获取ipv6 ddnsgo修改解析记录",
     "tags": [
