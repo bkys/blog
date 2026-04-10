@@ -1,5 +1,16 @@
 [
   {
+    "slug": "ai-xuexi-01",
+    "title": "AI学习日记一",
+    "tags": [
+      "AI",
+      "部署工具"
+    ],
+    "date": "2026-04-10",
+    "summary": "大模型部署选Ollama还是vLLM？看完直接不踩坑",
+    "cover": "/blogs/ai-xuexi-01/6757bf67a0dd7d91.png"
+  },
+  {
     "slug": "12-26",
     "title": "stm32f103c8t6与stc15C1K08最小系统功耗及设计建议",
     "tags": [
