@@ -1,0 +1,58 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440001",
+    "name": "百度云资源",
+    "type": 0,
+    "logo": "",
+    "desc": "百度云影视资源站，资源丰富，更新及时",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.apibdzy.com/api.php/provide/vod/",
+    "extra": {
+      "searchLimit": 20,
+      "gfw": false
+    }
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440002",
+    "name": "U酷资源",
+    "type": 0,
+    "logo": "",
+    "desc": "U酷影视资源站，支持多种播放格式",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.ukuapi.com/api.php/provide/vod/",
+    "extra": {
+      "searchLimit": 20,
+      "gfw": false
+    }
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440003",
+    "name": "无尽资源",
+    "type": 0,
+    "logo": "",
+    "desc": "无尽影视资源站，包含电影、电视剧、综艺、动漫等",
+    "nsfw": false,
+    "status": true,
+    "api": "https://api.wujinapi.com/api.php/provide/vod/",
+    "extra": {
+      "searchLimit": 20,
+      "gfw": false
+    }
+  },
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440004",
+    "name": "番茄资源",
+    "type": 0,
+    "logo": "",
+    "desc": "番茄影视资源站，资源种类丰富",
+    "nsfw": false,
+    "status": true,
+    "api": "http://api.fqzy.cc/api.php/provide/vod/",
+    "extra": {
+      "searchLimit": 20,
+      "gfw": false
+    }
+  }
+]
